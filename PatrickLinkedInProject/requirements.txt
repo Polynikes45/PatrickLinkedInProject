@@ -1,0 +1,5 @@
+pip install altair
+pip install pandas
+python -m venv venv
+source venv/bin/activate
+pip install scikit-learn
