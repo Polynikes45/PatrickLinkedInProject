@@ -1,4 +1,3 @@
-import pandas as pd
 s = pd.read_csv("social_media_usage.csv")
 print(s.shape)
 s.head(10)
