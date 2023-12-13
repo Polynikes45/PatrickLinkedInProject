@@ -1,4 +1,5 @@
 ##pip Install
+pip install virtualenv
 pip install altair
 pip install pandas
 python -m venv venv
