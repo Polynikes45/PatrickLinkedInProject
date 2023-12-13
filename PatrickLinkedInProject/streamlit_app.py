@@ -153,8 +153,3 @@ else:
 
 container = st.container(border=True)
 container.write(f"This person is predected to**{pred_label}** with {pred_percent[0]}% probability")
-
-
-git remote add origin https://github.com/Polynikes45/PatrickLinkedInProject.git
-  git branch -M main
-  git push -u origin main
